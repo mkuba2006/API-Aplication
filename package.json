@@ -18,6 +18,7 @@
   "homepage": "https://github.com/mkuba2006/API-Aplication#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "nodemon": "^2.0.20"
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2"
   }
 }

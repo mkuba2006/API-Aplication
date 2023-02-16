@@ -1,0 +1,23 @@
+{
+  "name": "aplication",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000A\u0000P\u0000I\u0000-\u0000A\u0000p\u0000l\u0000i\u0000c\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkuba2006/API-Aplication.git"
+  },
+  "author": "Jakub Myrta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkuba2006/API-Aplication/issues"
+  },
+  "homepage": "https://github.com/mkuba2006/API-Aplication#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
